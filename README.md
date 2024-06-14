@@ -11,7 +11,7 @@ This is a simple Snake game implemented in C++ using the Raylib library, followi
 
 ## Implementation Details
 
-The project uses the [Raylib C++ Starter Template](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE) for Visual Studio Code on Windows.
+The project uses the [Raylib C++ Starter Template](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2) for Visual Studio Code on Windows.
 It works with raylib version 4.5. Tested on both Windows 10 and Windows 11.
 
 The project is organized into the following files:
